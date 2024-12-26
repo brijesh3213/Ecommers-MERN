@@ -6,6 +6,8 @@ MERN Ecommerce is a dynamic, full-stack application designed to elevate your eCo
 
 
 🌟 Key Features
+
+
 🛍️ User Features
 Product Reviews
 📝 Write, edit, and delete reviews.
@@ -22,6 +24,9 @@ Profile Management
 Shopping Cart
 
 🛒 Add products, adjust quantities, and view subtotals with ease.
+
+
+
 🔑 Admin Features
 Product Management
 
