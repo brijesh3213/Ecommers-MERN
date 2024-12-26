@@ -1,5 +1,9 @@
 🛒 MERN Ecommerce: Revolutionize Your Online Shopping Experience!
 MERN Ecommerce is a dynamic, full-stack application designed to elevate your eCommerce journey. Built with the powerful MERN stack (MongoDB, Express.js, React, Node.js), it incorporates Redux Toolkit for state management and Material UI for a sleek, intuitive interface. Whether you're a user or an admin, this platform offers robust features for a seamless and efficient experience.
+<img width="1792" alt="Screenshot 2024-12-26 at 11 07 41 AM" src="https://github.com/user-attachments/assets/72a218fe-a472-4972-a2d1-1033ebe8e990" />
+<img width="1792" alt="Screenshot 2024-12-26 at 11 07 49 AM" src="https://github.com/user-attachments/assets/123dcef6-c052-43a9-b204-945810611813" />
+
+
 
 🌟 Key Features
 🛍️ User Features
