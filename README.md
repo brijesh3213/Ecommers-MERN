@@ -8,6 +8,7 @@ MERN Ecommerce is a dynamic, full-stack application designed to elevate your eCo
 🌟 Key Features
 🛍️ User Features
 Product Reviews
+<img width="795" alt="Screenshot 2024-12-26 at 11 14 11 AM" src="https://github.com/user-attachments/assets/7ad2f728-3c86-4276-8a37-bd30e318f918" />
 
 📝 Write, edit, and delete reviews.
 ⭐ Instant updates on ratings and star percentages.
@@ -21,6 +22,7 @@ Profile Management
 
 👤 Manage email, username, and multiple addresses.
 Shopping Cart
+<img width="1792" alt="Screenshot 2024-12-26 at 11 07 57 AM" src="https://github.com/user-attachments/assets/df2adb79-98a7-45ba-924f-efddba419e35" />
 
 🛒 Add products, adjust quantities, and view subtotals with ease.
 🔑 Admin Features
