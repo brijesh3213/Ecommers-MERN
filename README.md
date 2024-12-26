@@ -13,11 +13,14 @@ Product Reviews
 📝 Write, edit, and delete reviews.
 ⭐ Instant updates on ratings and star percentages.
 Wishlist
+<img width="363" alt="Screenshot 2024-12-26 at 10 13 55 AM" src="https://github.com/user-attachments/assets/c286cffe-919b-4687-ae03-fef0f4d608d2" />
 
 🖋️ Add, remove, and annotate products with personalized notes.
 Order Management
+<img width="1564" alt="Screenshot 2024-12-26 at 10 13 21 AM" src="https://github.com/user-attachments/assets/1f96f43f-873f-4240-bf59-38dda8fdc511" />
 
 🛒 Create new orders and view your order history.
+
 Profile Management
 
 👤 Manage email, username, and multiple addresses.
